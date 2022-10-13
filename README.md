@@ -1,9 +1,23 @@
 ### Hi there 👋
 
-https://img.shields.io/badge/Linkedin-Connect%20with%20me!-lightgrey 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="shivpvtel" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/shivpvtel?trk=profile-badge">Shiv Patel</a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
                     
 <!--
 **shivpvtel/shivpvtel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
