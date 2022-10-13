@@ -16,7 +16,7 @@
 <div align="center">
  <img src="https://komarev.com/ghpvc/?username=Shivpvtel&style=flat-square&color=blue" alt=""/>
   <h1>
-  hey there
+  Nice to meet you!!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   
