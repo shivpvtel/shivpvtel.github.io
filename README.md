@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/shivpvtel/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="www.instagram.com/shivpvtel/">
+  <a href="https://www.sitepoint.com/github-profile-readme/www.instagram.com/shivpvtel/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/shivpvtel">
