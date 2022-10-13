@@ -23,6 +23,14 @@ Hello!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" wid
 </div>
 
 ### 👨‍💻 About me:
+  ##I'm a 4th year Student at The Pensylvania State University 
+ - :telescope: I’m majoring in Computer Science with minors in Math, Astrophysics and Planetary Science.
+
+- :seedling: Currerntly focued on learning more about Astronomy and Astronomical Computation
+
+- :zap: In my free time, I spend most of time doing Photography and Astrophotography.
+
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shivpvtel/)
 
 
 
