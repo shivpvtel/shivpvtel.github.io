@@ -23,8 +23,9 @@ Hello!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" wid
 </div>
 
 ### 👨‍💻 About me:
- - 👨‍🎓: I'm a 4th year Student at The Pensylvania State University 
- - 🔭: I’m majoring in Computer Science with minors in Math, Astrophysics and Planetary Science.
+- :plane: South African born US citizen
+ - 👨‍🎓: 4th year Student at The Pensylvania State University 
+ - 🔭: Majoring in Computer Science with Minors in Math, Astrophysics and Planetary Science and Astronomy.
 
 - 🌱: Currerntly focued on learning more about Astronomy and Astronomical Computation
 
