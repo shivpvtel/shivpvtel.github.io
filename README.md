@@ -46,12 +46,9 @@ Hello!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" wid
 
  </div>
 <br />
-<br />
-
 #
-
 <br />
-### 🔥 My Stats:
+###🔥 My Stats:
 </div>
 <img align="left" alt="GitHub Streak" width="420px" style="padding-right:10px;" src="http://github-readme-streak-stats.herokuapp.com?user=shivpvtel&theme=dark&background=000000)]https://git.io/streak-stats"
 
