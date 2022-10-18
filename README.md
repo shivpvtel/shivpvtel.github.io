@@ -12,7 +12,6 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
 <div align="center">
  <img src="https://komarev.com/ghpvc/?username=Shivpvtel&style=flat-square&color=blue" alt=""/>
   <h1>
@@ -26,11 +25,8 @@ Hello!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" wid
 - ✈️: South African born US citizen
  - 👨‍🎓: 4th year Student at The Pensylvania State University 
  - 🔭: Majoring in Computer Science with Minors in Math, Astrophysics and Planetary Science and Astronomy.
-
 - 🌱: Currently focused on learning about Computational Astrophysics
-
 - ⚡: In my free time, I spend most of time doing [Photography and Astrophotography](https://vsco.co/shivpvtel/gallery/).
-
 - 📫: How to reach me: Add me on Linkedin [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shivpvtel/)
 
 
@@ -48,8 +44,6 @@ Hello!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" wid
  <img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/swift_original_logo_icon_146332.png" /> 
  <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_docker_icon_130643.png" />
 </div>
-</div>
-</div>
 
 
 
@@ -58,8 +52,6 @@ Hello!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" wid
 
 
 </div>
-
-
 
 ### 🔥 My Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivpvtel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
