@@ -49,6 +49,7 @@ Hello!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" wid
  <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_docker_icon_130643.png" />
 </div>
 </div>
+</div>
 
 
 
@@ -56,7 +57,8 @@ Hello!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" wid
 
 
 
-### :fire: My Stats
+
+### 🔥 My Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivpvtel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
