@@ -47,8 +47,7 @@ Hello!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" wid
  </div>
 <br />
 
-<br />
-### 🔥 My Stats:
+
 
 ### 🔥 My Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivpvtel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
