@@ -22,12 +22,12 @@ Hello!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" wid
 </div>
 
 ### 👨‍💻 About me:
-- ✈️: South African born US citizen
- - 👨‍🎓: 4th year Student at The Pensylvania State University 
- - 🔭: Majoring in Computer Science with Minors in Math, Astrophysics and Planetary Science and Astronomy.
-- 🌱: Currently focused on learning about Computational Astrophysics
-- ⚡: In my free time, I spend most of time doing [Photography and Astrophotography](https://vsco.co/shivpvtel/gallery/).
-- 📫: How to reach me: Add me on Linkedin [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shivpvtel/)
+- CS Student at The Pennsylvania State University 
+  - Minors in Math, Astrophysics and Planetary Science
+- Currently a Research Assistant with the [McEntaffer Rocket Group](https://www.mcentaffergroup.psu.edu) at Penn state
+  - My main focus is on the telemetry system as well as data processing
+- In my free time, I spend most of time doing [Photography and Astrophotography](https://vsco.co/shivpvtel/gallery/).
+- How to reach me: Add me on Linkedin [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shivpvtel/)
 
 
 #
