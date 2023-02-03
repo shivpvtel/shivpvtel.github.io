@@ -15,19 +15,19 @@
 <div align="center">
  <img src="https://komarev.com/ghpvc/?username=Shivpvtel&style=flat-square&color=blue" alt=""/>
   <h1>
-Hello!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Hello<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </br>My name is Shiv Patel
 </h1>
   
   
 </div>
 
-### 👨‍💻 About me:
+### About me:
 - CS Student at The Pennsylvania State University 
   - Minors in Math, Astrophysics and Planetary Science
 - Currently a Research Assistant with the [McEntaffer Rocket Group](https://www.mcentaffergroup.psu.edu) at Penn state
   - My main focus is on the telemetry system as well as data processing
 - In my free time, I spend most of time doing [Photography and Astrophotography](https://vsco.co/shivpvtel/gallery/).
-- How to reach me: Add me on Linkedin [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shivpvtel/)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/shivpvtel/)
 
 
 #
@@ -49,9 +49,9 @@ Hello!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" wid
 
 
 #
-### 🔥 My Stats:
+### My Github Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivpvtel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivpvtel&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </div>
